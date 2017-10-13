@@ -1,1 +1,1 @@
-# js_map
+javascript開始から2週目の作品です
